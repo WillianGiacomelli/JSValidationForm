@@ -4,9 +4,9 @@ Formulário HTML validado com JavaScript! Este é um formulário moderno e inter
 
 ### 🚀 Tecnologias Utilizadas
 
-HTML5
-JavaScript (ES6)
-CSS3
+HTML5</br>
+JavaScript (ES6)</br>
+CSS3</br>
 
 #### Instruções de Preenchimento
 
@@ -42,8 +42,8 @@ Ao clicar no botão "Enviar", nossos scripts de JavaScript verificarão automati
 Exemplo de Uso
 Para começar a utilizar o formulário, siga as etapas abaixo:
 
-Abra o arquivo "index.html" em seu navegador.
-Preencha todos os campos obrigatórios do formulário seguindo as instruções fornecidas.
-Ao preencher o último campo, clique no botão "Enviar".
-Caso algum campo esteja inválido, você receberá mensagens de erro indicando o que precisa ser corrigido.
-Após preencher todos os campos corretamente, você receberá uma mensagem de confirmação de envio bem-sucedido.
+Abra o arquivo "index.html" em seu navegador.</br>
+Preencha todos os campos obrigatórios do formulário seguindo as instruções fornecidas.</br>
+Ao preencher o último campo, clique no botão "Enviar".</br>
+Caso algum campo esteja inválido, você receberá mensagens de erro indicando o que precisa ser corrigido.</br>
+Após preencher todos os campos corretamente, você receberá uma mensagem de confirmação de envio bem-sucedido.</br>
